@@ -36,6 +36,9 @@
   </project>
   <project path="manifest" name="android_manifest" remote="du" />
 
+  <!-- Device -->
+  <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="du" revision="p9x-caf" />
+
   <!-- External -->
   <project path="external/clang" name="android_external_clang" remote="du" />
   <project path="external/drm_hwcomposer" name="android_external_drm_hwcomposer" remote="du" />
