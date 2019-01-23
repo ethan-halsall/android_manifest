@@ -61,6 +61,10 @@
   <project path="hardware/qcom/msm8x84" name="android_hardware_qcom_msm8x84" remote="du" />
   <project path="hardware/qcom/sdm845/display" name="android_hardware_qcom_sdm845_display" remote="du" />
   <project path="hardware/ril" name="android_hardware_ril" remote="du" />
+  <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="du" revision="p9x-caf" />
+  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="du" revision="p9x-caf" />
+  <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="du" revision="p9x-caf" />
+  
 
   <!-- Packages -->
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="du" />
